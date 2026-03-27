@@ -1,1 +1,1 @@
-# Improved for hardware delay 
+# Improved for hardware delay (work in 2026)
